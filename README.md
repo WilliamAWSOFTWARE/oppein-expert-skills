@@ -3,6 +3,8 @@
 
 Proyecto independiente y especializado al 100% en la modulación milimétrica, especificación de catálogo oficial, despieces técnicos etiquetados y preparación para producción industrial de los sistemas de **Oppein**.
 
+* 🔗 **Repositorio GitHub:** [https://github.com/WilliamAWSOFTWARE/oppein-expert-skills](https://github.com/WilliamAWSOFTWARE/oppein-expert-skills)
+
 ---
 
 ## 👥 Equipo Especializado de Agentes
