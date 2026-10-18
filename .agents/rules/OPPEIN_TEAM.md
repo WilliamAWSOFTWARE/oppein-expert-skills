@@ -29,3 +29,4 @@ flowchart TD
 2. **Canteado:** 100% encolado con adhesivo de poliuretano reactivo (**PUR**), garantizando cero penetración de vapor o humedad.
 3. **Mapeo Unívoco:** Ninguna pieza se envía a producción sin su código de catálogo oficial y sus dimensiones exactas $(W \times D \times H\text{ mm})$.
 4. **Despiece Etiquetado:** Todo render o plano técnico debe contar con etiquetas numéricas `[01], [02], [03]` que vinculen visualmente el diseño con la tabla BOM de compra.
+
