@@ -1,4 +1,4 @@
-# 📐 Experto en Oppein
+# 📐 OppeinExpertSkills
 ### Suite Especializada en Sistemas Modulares, Fabricación Industrial & Despiece Técnico Oppein
 
 Proyecto independiente y especializado al 100% en la modulación milimétrica, especificación de catálogo oficial, despieces técnicos etiquetados y preparación para producción industrial de los sistemas de **Oppein**.
@@ -7,7 +7,7 @@ Proyecto independiente y especializado al 100% en la modulación milimétrica, e
 
 ## 👥 Equipo Especializado de Agentes
 
-Experto en Oppein cuenta con su propio equipo de agentes dedicados a la precisión milimétrica:
+OppeinExpertSkills cuenta con su propio equipo de agentes dedicados a la precisión milimétrica:
 
 ```mermaid
 flowchart TD
@@ -28,7 +28,7 @@ flowchart TD
 ## 📂 Estructura del Proyecto
 
 ```
-ExpertoOppein/
+OppeinExpertSkills/
 ├── skills/
 │   └── oppein-modular-design/   # 📐 Skill de modulación, algoritmos de ajuste y ergonomía
 ├── catalogo/
